@@ -54,7 +54,7 @@ Learning to use Bulma CSS Framework
 * npm run start
 
 ## Deployed
-[RGMarket] (https://retro-game-market.herokuapp.com/)
+[RGMarket] ((https://nutty-knickers-bee.cyclic.app/))
 
 ## GitHub
 [GitRepo] (https://github.com/Andydchoo/Retro-Game-Market)
